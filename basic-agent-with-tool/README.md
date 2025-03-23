@@ -1,6 +1,6 @@
 # mastra-ai-agents-examples/basic-agent-with-tool
 
-> 🔗 Checkout the full article about this example on (Medium)[google.com]
+> 🔗 Checkout the full article about this example on [Medium](google.com)
 
 A simple example of an AI agent using tools to answer hotel guests and contextualize the conversation using informations about their booking.
 
