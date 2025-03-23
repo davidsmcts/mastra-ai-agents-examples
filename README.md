@@ -10,4 +10,4 @@ A simple example of an AI agent using tools to answer hotel guests and contextua
 
 _More examples to come..._
 
-Follow [@mastra_ai[(https://x.com/mastra_ai)] on X to get their latest updates.
+Follow [@mastra_ai](https://x.com/mastra_ai) on X to get their latest updates.
